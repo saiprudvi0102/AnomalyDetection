@@ -3,7 +3,6 @@
 ## Overview
 This project implements a real-time anomaly detection system for IoT networks using FPGA hardware acceleration. The system utilizes a PYNQ Z2 FPGA board to detect potentially malicious network traffic patterns within microseconds, demonstrating the benefits of hardware acceleration for time-critical security applications.
 
-![System Overview](https://github.com/YourUsername/FPGA-IoT-Anomaly-Detection/raw/main/images/system-overview.png)
 
 ## Key Features
 - Real-time anomaly detection in IoT network traffic
